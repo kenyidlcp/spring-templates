@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/06_microservicio_rastreador/pom.xml" />
+        <option value="$PROJECT_DIR$/05_test_crud_productos_spring/pom.xml" />
+        <option value="$PROJECT_DIR$/01_microservice_crud_productos/pom.xml" />
+        <option value="$PROJECT_DIR$/02_microservicio_nombres_reactivo/pom.xml" />
+        <option value="$PROJECT_DIR$/03_microservicio_crud_productos_reactivo/pom.xml" />
+        <option value="$PROJECT_DIR$/03_microservicio_crud_productos_reactivo_tienda2/pom.xml" />
+        <option value="$PROJECT_DIR$/07_app_cliente_rastreador/pom.xml" />
+        <option value="$PROJECT_DIR$/08_microservicio_crud_productos_reactivo_securizado/pom.xml" />
+        <option value="$PROJECT_DIR$/09_microservicio_rastreador_acceso_securizado/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

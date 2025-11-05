@@ -23,7 +23,6 @@ public class ProductoController {
     }
 
     @GetMapping(value = "productos/por-categoria")
-    //@GetMapping(value = "productos/por-categoria/{categoria}")
     public ResponseEntity<Flux<Producto>> productosCategoria(@RequestParam("categoria") String categoria) {
         return new ResponseEntity<>(productoService.productosCategoria(categoria), HttpStatus.OK);
     }
