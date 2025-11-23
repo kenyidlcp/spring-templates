@@ -1,0 +1,13 @@
+spring:
+  application:
+  name: servicio-rastreator
+
+server:
+  port: 9000
+
+eureka:
+  client:
+    register-with-eureka: false
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+
